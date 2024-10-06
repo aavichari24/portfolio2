@@ -173,7 +173,7 @@ body.dark-theme {
 }
 
 .profile__border {
-  border: 3.5px solid var(--first-color);
+  border: 3.5px solid #1abc9c;
   justify-self: center;
   width: 115px;
   height: 115px;
@@ -250,7 +250,7 @@ body.dark-theme {
   display: inline-flex;
   align-items: center;
   column-gap: .5rem;
-  background-color: var(--first-color);
+  background-color: #1abc9c;
   color: #fff;
   padding: 1.15rem 1.5rem;
   border-radius: .5rem;
@@ -389,7 +389,7 @@ body.dark-theme {
 
 .skills__data i {
   font-size: 1rem;
-  color: var(--first-color);
+  color: #1abc9c;
 }
 
 .skills__name {
